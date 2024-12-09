@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: ^5.7.0
+  pretty_dio_logger: ^1.4.0
+  network_monitor_cp: ^0.0.4
 
 dev_dependencies:
   flutter_test:
